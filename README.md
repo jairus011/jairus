@@ -1,74 +1,75 @@
-# Hi, I'm Jairus Omondi 👋
+# Jairus Omondi
 
-### Data Scientist • Machine Learning Engineer • AI Developer
+### Data Scientist & Machine Learning Engineer · Financial Risk · Applied AI
 
-I build data-driven solutions with a strong interest in **banking, credit risk, fraud detection, and applied machine learning**. My work focuses on turning raw data into practical models, analytics, and decision-support tools.
+I build **practical machine learning and analytics systems** that turn financial and operational data into decisions. My work focuses on **fraud detection, credit risk, banking analytics, predictive modelling, and deployment-oriented ML**.
 
----
+**BSc Data Science & Analytics — JKUAT**
 
-## About Me
-
-- 🎓 BSc Data Science & Analytics student at JKUAT
-- 🏦 Interested in data science and machine learning for financial services
-- 🔍 Focus areas: fraud analytics, credit risk, predictive modelling, SQL analytics, and ML applications
-- 🧠 I enjoy building end-to-end projects — from data cleaning and EDA to modelling, evaluation, dashboards, and deployment
+[Portfolio](https://jairus-omondi-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jairus-omondi) · [GitHub](https://github.com/jairus011)
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### [Financial Fraud Detection Dashboard](https://github.com/jairus011/financial-fraud-detection-dashboard)
-End-to-end fraud detection system with supervised and anomaly-detection models, reproducible evaluation, scored transactions, automated tests, and a Streamlit dashboard.
+**Fraud screening, anomaly detection, reproducible ML and deployment**
+
+Built an end-to-end fraud analytics system from a 5,000-transaction dataset, combining supervised classifiers with **Isolation Forest** anomaly detection, reproducible ETL, saved model pipelines, automated tests and a six-page Streamlit dashboard.
+
+**Stack:** Python · Scikit-learn · SQLite · Streamlit · Pytest  
+[Live dashboard](https://financial-fraud-detection-dashboard.onrender.com/)
+
+---
 
 ### [Credit Risk Prediction](https://github.com/jairus011/credit-risk-prediction)
-Machine learning project for customer credit-risk classification using the German Credit Dataset, with structured EDA, preprocessing, model comparison, and business-focused interpretation.
+**Machine learning for lending-risk assessment**
+
+Developed and compared Logistic Regression, Decision Tree and Random Forest models on the German Credit Dataset, with structured preprocessing, leakage-aware evaluation and business interpretation.
+
+**Selected baseline:** Random Forest · **76.5% accuracy · 74.7% ROC-AUC**
+
+**Stack:** Python · Pandas · Scikit-learn · Jupyter
+
+---
 
 ### [Fraud Detection Portfolio](https://github.com/jairus011/fraud-detection-portfolio)
-Credit-card fraud case study focused on severe class imbalance, preprocessing, model evaluation, and fraud-relevant metrics such as precision, recall, F1-score, and ROC-AUC.
+**Imbalanced classification for credit-card fraud**
 
-### [Banking SQL Analytics](https://github.com/jairus011/banking-sql-analytics)
-SQL analytics project demonstrating practical querying, data exploration, and business analysis in a banking context.
+Built a fraud-detection workflow on **284,807 transactions**, including duplicate handling, stratified splitting, scaling and model comparison using fraud-relevant metrics rather than accuracy alone.
 
-### [Project Foresight — Demand & Inventory Intelligence](https://github.com/jairus011/project-foresight-demand-inventory-intelligence)
-Collaborative data-science project focused on demand and inventory intelligence using structured analysis and predictive methods.
+**Random Forest:** 0.97 precision · 0.73 recall · 0.83 F1 on the fraud class
 
----
-
-## Tech Stack
-
-**Languages & Data**  
-Python • SQL • Pandas • NumPy • PostgreSQL
-
-**Machine Learning**  
-Scikit-learn • Classification • Regression • Clustering • Model Evaluation • Feature Engineering
-
-**Analytics & Visualization**  
-Power BI • Matplotlib • Jupyter Notebook
-
-**Applications & APIs**  
-Streamlit • FastAPI
-
-**Developer Tools**  
-Git • GitHub • VS Code • Postman
+**Stack:** Python · Pandas · Scikit-learn · Jupyter
 
 ---
 
-## Current Focus
+## More Projects
 
-I'm deepening my practical experience in:
-
-- credit-risk modelling
-- fraud and anomaly detection
-- model evaluation for imbalanced data
-- banking and financial analytics
-- production-oriented ML workflows
+| Project | What it demonstrates |
+|---|---|
+| [Banking SQL Analytics](https://github.com/jairus011/banking-sql-analytics) | Relational database design, advanced SQL and banking-oriented business reporting |
+| [Project Foresight](https://github.com/jairus011/project-foresight-demand-inventory-intelligence) | Collaborative demand forecasting and inventory intelligence |
+| [MediCare Lab](https://github.com/jairus011/medicare-lab) | Reproducible ML experimentation, Streamlit, testing and responsible model limitations |
 
 ---
 
-## Connect
+## Technical Toolkit
 
-[LinkedIn](https://www.linkedin.com/in/jairus-omondi) • [GitHub](https://github.com/jairus011)
+**Machine Learning:** Scikit-learn · Classification · Regression · Clustering · Anomaly Detection · Feature Engineering · Model Evaluation  
+**Data & Analytics:** Python · SQL · Pandas · NumPy · PostgreSQL · Power BI · Matplotlib · Jupyter  
+**Applications & Engineering:** Streamlit · FastAPI · Git · GitHub · Postman · VS Code
 
 ---
 
-> Building practical data products one project at a time.
+## What I'm Building Toward
+
+My focus is becoming a strong applied data scientist for **banking and financial services** — especially problems involving **credit risk, fraud, customer analytics and production-oriented machine learning**.
+
+I care about models that are not only accurate, but also **properly evaluated, reproducible, explainable and useful in real decision workflows**.
+
+---
+
+### Let's connect
+
+[Portfolio](https://jairus-omondi-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jairus-omondi) · [Email](mailto:kola.j.omondi@gmail.com)
