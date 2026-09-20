@@ -1,75 +1,97 @@
+<div align="center">
+
 # Jairus Omondi
 
-### Data Scientist & Machine Learning Engineer · Financial Risk · Applied AI
+### Data Scientist · Machine Learning Engineer · Applied AI
 
-I build **practical machine learning and analytics systems** that turn financial and operational data into decisions. My work focuses on **fraud detection, credit risk, banking analytics, predictive modelling, and deployment-oriented ML**.
+I build practical data and machine-learning systems for **financial risk, fraud detection, credit analytics, forecasting, and decision support**.
 
-**BSc Data Science & Analytics — JKUAT**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://jairus-omondi-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairus-omondi)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kola.j.omondi@gmail.com)
 
-[Portfolio](https://jairus-omondi-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jairus-omondi) · [GitHub](https://github.com/jairus011)
-
----
-
-## Featured Work
-
-### [Financial Fraud Detection Dashboard](https://github.com/jairus011/financial-fraud-detection-dashboard)
-**Fraud screening, anomaly detection, reproducible ML and deployment**
-
-Built an end-to-end fraud analytics system from a 5,000-transaction dataset, combining supervised classifiers with **Isolation Forest** anomaly detection, reproducible ETL, saved model pipelines, automated tests and a six-page Streamlit dashboard.
-
-**Stack:** Python · Scikit-learn · SQLite · Streamlit · Pytest  
-[Live dashboard](https://financial-fraud-detection-dashboard.onrender.com/)
+</div>
 
 ---
 
-### [Credit Risk Prediction](https://github.com/jairus011/credit-risk-prediction)
-**Machine learning for lending-risk assessment**
+## About Me
 
-Developed and compared Logistic Regression, Decision Tree and Random Forest models on the German Credit Dataset, with structured preprocessing, leakage-aware evaluation and business interpretation.
+I'm a **BSc Data Science & Analytics** student at **JKUAT**, focused on applying machine learning and analytics to real-world problems in banking and financial services.
 
-**Selected baseline:** Random Forest · **76.5% accuracy · 74.7% ROC-AUC**
-
-**Stack:** Python · Pandas · Scikit-learn · Jupyter
+My strongest interests are **fraud detection, credit risk, banking analytics, predictive modelling, and production-oriented ML**. I care about building solutions that are not only accurate, but also reproducible, explainable, properly evaluated, and useful in real decision workflows.
 
 ---
 
-### [Fraud Detection Portfolio](https://github.com/jairus011/fraud-detection-portfolio)
-**Imbalanced classification for credit-card fraud**
+## Featured Projects
 
-Built a fraud-detection workflow on **284,807 transactions**, including duplicate handling, stratified splitting, scaling and model comparison using fraud-relevant metrics rather than accuracy alone.
-
-**Random Forest:** 0.97 precision · 0.73 recall · 0.83 F1 on the fraud class
-
-**Stack:** Python · Pandas · Scikit-learn · Jupyter
-
----
-
-## More Projects
-
-| Project | What it demonstrates |
-|---|---|
-| [Banking SQL Analytics](https://github.com/jairus011/banking-sql-analytics) | Relational database design, advanced SQL and banking-oriented business reporting |
-| [Project Foresight](https://github.com/jairus011/project-foresight-demand-inventory-intelligence) | Collaborative demand forecasting and inventory intelligence |
-| [MediCare Lab](https://github.com/jairus011/medicare-lab) | Reproducible ML experimentation, Streamlit, testing and responsible model limitations |
+| Project | Highlights | Stack |
+|---|---|---|
+| **[Financial Fraud Detection Dashboard](https://github.com/jairus011/financial-fraud-detection-dashboard)** | End-to-end fraud analytics with supervised classification, Isolation Forest anomaly detection, saved model pipelines, automated tests, and an interactive dashboard. **[Live app](https://financial-fraud-detection-dashboard.onrender.com/)** | Python · Scikit-learn · SQLite · Streamlit · Pytest |
+| **[Credit Risk Prediction](https://github.com/jairus011/credit-risk-prediction)** | Lending-risk modelling with structured preprocessing and comparison of Logistic Regression, Decision Tree, and Random Forest. Selected baseline: **76.5% accuracy · 74.7% ROC-AUC** | Python · Pandas · Scikit-learn · Jupyter |
+| **[Fraud Detection Portfolio](https://github.com/jairus011/fraud-detection-portfolio)** | Imbalanced fraud classification on **284,807 transactions** with stratified splitting and fraud-focused evaluation. Random Forest: **0.97 precision · 0.73 recall · 0.83 F1** on the fraud class | Python · Pandas · Scikit-learn · Jupyter |
+| **[Banking SQL Analytics](https://github.com/jairus011/banking-sql-analytics)** | Relational database design, analytical SQL, and banking-oriented business reporting | SQL · PostgreSQL · Analytics |
+| **[Project Foresight](https://github.com/jairus011/project-foresight-demand-inventory-intelligence)** | Collaborative demand forecasting and inventory intelligence project | Python · Forecasting · Data Analytics |
+| **[MediCare Lab](https://github.com/jairus011/medicare-lab)** | Reproducible ML experimentation with Streamlit deployment, testing, and responsible model limitations | Python · Scikit-learn · Streamlit |
 
 ---
 
 ## Technical Toolkit
 
-**Machine Learning:** Scikit-learn · Classification · Regression · Clustering · Anomaly Detection · Feature Engineering · Model Evaluation  
-**Data & Analytics:** Python · SQL · Pandas · NumPy · PostgreSQL · Power BI · Matplotlib · Jupyter  
-**Applications & Engineering:** Streamlit · FastAPI · Git · GitHub · Postman · VS Code
+### Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+### Data, BI & Databases
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Engineering & Deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## What I'm Building Toward
+## GitHub Activity
 
-My focus is becoming a strong applied data scientist for **banking and financial services** — especially problems involving **credit risk, fraud, customer analytics and production-oriented machine learning**.
+<div align="center">
 
-I care about models that are not only accurate, but also **properly evaluated, reproducible, explainable and useful in real decision workflows**.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jairus011&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" alt="Jairus Omondi GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairus011&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" />
+
+</div>
 
 ---
 
-### Let's connect
+## Professional Direction
+
+I'm building toward applied data-science and machine-learning work in **banking and financial services**, especially:
+
+- Credit risk and lending analytics
+- Fraud detection and anomaly detection
+- Customer and portfolio analytics
+- Machine-learning APIs and decision-support systems
+- Business intelligence and data-driven reporting
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm always interested in learning, collaborating, and working on meaningful data problems.
 
 [Portfolio](https://jairus-omondi-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jairus-omondi) · [Email](mailto:kola.j.omondi@gmail.com)
+
+</div>
